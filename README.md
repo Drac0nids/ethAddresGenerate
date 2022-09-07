@@ -1,11 +1,14 @@
 # ethAddresGenerate
  以0开头的以太坊地址生成器
+ 
 编译
+
 ```
 sudo go build -o ethAddresGenerate main.go
 ```
 
 使用
+
 Usage of ./ethAddresGenerate:                                                                                                                                       ─╯
   -num int
         0的位数 (default 4)
