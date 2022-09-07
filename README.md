@@ -21,5 +21,5 @@ Usage of ./ethAddresGenerate:                                                   
 
 输出格式为：
 ```
-私钥 地址
+地址 私钥
 ```
