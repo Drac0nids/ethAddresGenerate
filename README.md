@@ -18,3 +18,8 @@ Usage of ./ethAddresGenerate:                                                   
 
 示例：
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/31087166/188784381-c961326b-e139-4c5b-9df5-be1152f02a0d.png">
+
+输出格式为：
+```
+私钥 地址
+```
